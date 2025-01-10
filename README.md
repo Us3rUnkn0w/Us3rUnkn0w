@@ -59,9 +59,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Us3rUnkn0w&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 <h2 align="left">Experience, Learned (or used) and Studing</h2>
-<p align="left">This is a resume about me, here are my experiences, tools I used, methodologies and everything I had interaction with throughout my career and studies, there are also some things I still want to see and learn.<br><br>> I Worked like to Information Security Analyst - Pentester<br>Was a few months, but a liked to used the Kali Linux and tools like SQL Injection, Burp Suite, John the Ripper. Docker and other, OWASP Top 10 was the methodology I used<br><br>> I Work like to  Support IT Analyst Jr.<br>Monitoring with Zabbix and Grafana, a low contact with SIEM tool, menager the tickets, filter and send to Technical Teams<br><br>> My objective is DevSecOps</p>
-<h3 align="left">I used and a I know to use:</h3>
+<p align="left">This is a resume about me, here are my experiences, tools I used, methodologies and everything I had interaction with throughout my career and studies, there are also some things I still want to see and learn.<br><br>> I Worked like to Information Security Analyst - Pentester<br>Was a few months, but a liked to used the Kali Linux and tools like SQL Injection, Burp Suite, John the Ripper. Docker and other, OWASP Top 10 was the methodology I used<br><br>> I Work like to  Support IT Analyst Jr.<br>Monitoring with Zabbix and Grafana, a low contact with SIEM tool, menager the tickets, filter and send to Technical Teams<br><br>> My objective is Software Engineer</p>
 <!--
+<h3 align="left">I used and a I know to use:</h3>
 <table>
 	<tr>
 		<td></td>
@@ -108,15 +108,12 @@
 	</tr>
 </table>
 -->
-<div align="center">
-  <img height="200" src="</>"  />
-</div>
 <h2 align="left">Hobbies</h2>
 <p align="left">I like the IT security side and I love studying Pentest, Cyber Warfare, Electronic Warfare and all intelligence sources, but Signals Intelligence in particular, hardware hacking tools, espionage, counter-espionage and everything else I find interesting.</p>
-<div align="center">
-  <img height="200" src="</>"  />
-</div>
-<p align="left">Resume:<br><br>- I Like to study SIGINT (S2) <br>- I'm a Pentester in developement (rookie level rsrs) <br>- Cyber Warfare - <?> <br>- Eletronic Hacking Tools - projects and tools <br>- Ideas to think ou develop <br>- One day I wanna be a DevSecOps or a Cyber Warfare Enginner (if this second exists)</p>
+
+![Wallpaper_Cyber](https://github.com/user-attachments/assets/aed2fa2d-41ff-4e71-b2d9-5db61b6c46a6)
+
+<p align="left">Resume:<br><br>- I Like to study SIGINT (❤️) <br>- I'm a Pentester in developement (rookie level rsrs) <br>- Cyber Warfare, Eletronic Warfare and Espionage is my favorite topics - <?> <br>- Eletronic Hacking Tools - projects and tools <br>- Ideas to think ou develop <br>- One day I wanna be a Software Engineer or a Cyber Warfare Enginner (if this second exists)</p>
 <h3 align="center">Social Media and Contacts</h3>
 <div align="center">
   <a href="www.linkedin.com/in/bruno-s-891b44210" target="_blank">
