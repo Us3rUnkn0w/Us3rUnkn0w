@@ -29,7 +29,7 @@
 	</tr>
 </table>
 <h2 align="left">I code with</h2>
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
