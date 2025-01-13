@@ -2,7 +2,7 @@
 <!--Profile in contsruction-->
 <h2 align="left">About me</h2>
 <p align="left">My name is Bruno, nice to meet you, that is my profile in the GitHub, I'm from Brazil</p>
-<p align="left">✨ I'm a Dev Full Stack Java<br>🎓 I'm a Technician Network's Computer<br>📚 I'm will initiate the college this year, the course is Cyber Defense<br>🎯 I want be a Software Engineer<br>🎲 I like watch movies and series, play videogames too, I don't played Baldur's Gate 3 yet...<br></p>
+<p align="left">✨ I'm Dev<br>🎓 I'm a Technician Network's Computer<br>📚 I'm will initiate the college this year, the course is Cyber Defense<br>🎯 I want be a Software Engineer<br>🎲 I like watch movies and series, play videogames too, I don't played Baldur's Gate 3 yet...<br></p>
 
 ![imagem1github](https://github.com/user-attachments/assets/1e8efb66-9806-4576-a93d-474961cc8067)
 <h3 align="left">My Certifications</h3>
@@ -29,7 +29,7 @@
 	</tr>
 </table>
 <h2 align="left">I code with</h2>
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
@@ -54,7 +54,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
 </div>
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Us3rUnkn0w&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Us3rUnkn0w&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
